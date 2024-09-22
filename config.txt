@@ -1,0 +1,5 @@
+reading config.txt
+233
+test
+ok
+dgjhbvghgfgbvj
